@@ -60,12 +60,6 @@ LiterAlura permite a los usuarios registrar libros en una base de datos y obtene
 
 2.  **Interactuar con la aplicación a través de la consola.**
 
-## Próximos Pasos
-
--   Implementar las funcionalidades básicas.
--   Manejar los casos de error, como libros no encontrados o intentos de insertar el mismo libro múltiples veces.
--   Añadir funcionalidades adicionales para mejorar la experiencia del usuario.
-
 ## Recursos Adicionales
 
 -   [Documentación de Spring Boot](https://spring.io/projects/spring-boot)
